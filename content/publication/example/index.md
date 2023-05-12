@@ -37,7 +37,7 @@ publication_short: In *Environmetrics*
 tags: []
 
 # Display this page in the Featured widget?
-featured: false
+featured: true
 
 # Custom links (uncomment lines below)
 # links:
@@ -67,6 +67,7 @@ image:
 #   Otherwise, set `projects: []`.
 # projects:
 #  - example
+projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
