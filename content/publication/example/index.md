@@ -40,7 +40,7 @@ tags: []
 featured: true
 
 # Custom links (uncomment lines below)
- links: 'https://onlinelibrary.wiley.com/doi/10.1002/env.2806'
+# links: 'https://onlinelibrary.wiley.com/doi/10.1002/env.2806'
 # - name: Custom Link
 #   url: 
 
@@ -67,6 +67,7 @@ image:
 #   Otherwise, set `projects: []`.
 # projects:
 #  - example
+
 projects: []
 
 # Slides (optional).
