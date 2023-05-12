@@ -37,7 +37,7 @@ publication_short: In *Environmetrics*
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
@@ -45,7 +45,7 @@ featured: true
 #   url: http://example.org
 
 url_pdf: 'https://onlinelibrary.wiley.com/doi/10.1002/env.2806'
-url_code: ''
+url_code: 'https://github.com/federicastolf/sHMEV'
 url_dataset: ''
 url_poster: ''
 url_project: ''
