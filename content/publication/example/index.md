@@ -62,7 +62,6 @@ url_video: ''
 # projects:
 #  - example
 
-projects: []
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
