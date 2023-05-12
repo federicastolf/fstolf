@@ -42,7 +42,7 @@ featured: true
 # Custom links (uncomment lines below)
 # links:
 # - name: Custom Link
-#   url: http://example.org
+#   url: 
 
 url_pdf: 'https://onlinelibrary.wiley.com/doi/10.1002/env.2806'
 url_code: 'https://github.com/federicastolf/sHMEV'
