@@ -19,9 +19,9 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - Bayesian methods and computation
-  - Dimensionality reduction
-  - Bayesian Nonparametrics
+  - Bayesian modeling
+  - Computational statistics
+  - Applied statistics
 
 # Education to show in About widget
 education:
@@ -73,6 +73,5 @@ highlight_name: true
 
 I am a PhD student at [University of Padova](https://www.unipd.it/), in the [department of Statistical Sciences](http://www.stat.unipd.it/), working under the supervision of [Prof. Antonio Canale](https://tonycanale.github.io/).
 
-I am currently a Visiting Research Scholar in the department of Statistical Sciences at [Duke University](https://stat.duke.edu/) working with professor [David B. Dunson](https://scholars.duke.edu/person/dunson).
 
 {{< icon name="download" pack="fas" >}} See my full {{< staticref "uploads/cv_FedericaStolf.pdf" "newtab" >}} CV {{< /staticref >}}.
