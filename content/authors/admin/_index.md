@@ -76,4 +76,6 @@ I am currently a Visiting Research Scholar in the department of Statistical Scie
 
 I am interested in developing flexible Bayesian methods to analyze complex data, focusing on both theoretical and computational aspects. My recent work is related to latent feature models, Bayesian nonparametrics and tensor factorization.
 
+Outside of statistics, I love skiing, hiking and climbing, particularly in my home mountains (Julian Alps).
+
 {{< icon name="download" pack="fas" >}} See my full {{< staticref "uploads/cv_FedericaStolf.pdf" "newtab" >}} CV {{< /staticref >}}.
