@@ -28,7 +28,7 @@ education:
   courses:
     - course: PhD in Statistics
       institution: University of Padova
-      year: 2024 (expected)
+      year: 2025 (expected)
     - course: MSc in Statistics
       institution: University of Padova
       year: 2021
