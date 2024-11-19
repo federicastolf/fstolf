@@ -19,8 +19,8 @@ organizations:
 
 # Interests to show in About widget
 interests:
-  - Bayesian methods and computation
-  - Dimensionality reduction
+  - Applied Bayesian modeling
+  - Latent feature models
   - Bayesian Nonparametrics
 
 # Education to show in About widget
@@ -43,13 +43,13 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:federica.stolf@phd.unipd.it'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/fedestolf
-  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-  #   icon_pack: fas
-  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+    link: 'mailto:federica.stolf@duke.edu'
+  #- icon: twitter
+  #  icon_pack: fab
+  #  link: https://twitter.com/fedestolf
+   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+     icon_pack: fas
+     link: https://scholar.google.com/citations?user=oEaWYz8AAAAJ&hl=it
   - icon: github
     icon_pack: fab
     link: https://github.com/federicastolf
