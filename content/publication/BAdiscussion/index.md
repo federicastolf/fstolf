@@ -24,7 +24,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: "Bayesian Analysis"
-publication_short: "BA"
+publication_short: "Bayesian Analysis"
 
 #abstract: 
 
@@ -36,10 +36,9 @@ tags:
 featured: false
 
 links:
-- name: "arXiv"
-  url: https://arxiv.org/abs/2411.10218
-- name: "Code"
-  url: https://github.com/federicastolf/AdaTuck
+- name: "Journal"
+  url: https://projecteuclid.org/journals/bayesian-analysis/advance-publication/Sparse-Bayesian-Factor-Analysis-When-the-Number-of-Factors-Is/10.1214/24-BA1423.full
+
 url_pdf: ''
 url_code: ''
 url_dataset: ''
