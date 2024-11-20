@@ -44,12 +44,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:federica.stolf@duke.edu'
-  #- icon: twitter
-  #  icon_pack: fab
-  #  link: https://twitter.com/fedestolf
-   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-     icon_pack: fas
-     link: https://scholar.google.com/citations?user=oEaWYz8AAAAJ&hl=it
+  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+    icon_pack: fas
+    link: https://scholar.google.com/citations?user=oEaWYz8AAAAJ&hl=it
   - icon: github
     icon_pack: fab
     link: https://github.com/federicastolf
