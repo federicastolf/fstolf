@@ -31,7 +31,9 @@ publication_short: In "Environmetrics"
 # Summary. An optional shortened abstract.
 #summary:
 
-tags: []
+tags:
+- Source Themes
+featured: false
 
 links:
 - name: "Journal"
@@ -52,7 +54,7 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+  caption: ''
   focal_point: ''
   preview_only: false
 
