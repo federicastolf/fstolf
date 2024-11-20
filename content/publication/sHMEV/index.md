@@ -39,13 +39,6 @@ links:
 - name: "Code"
   url: https://github.com/federicastolf/sHMEV
 
-# Display this page in the Featured widget?
-featured: false
-
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
 
 url_pdf: ''
 url_code: ''
