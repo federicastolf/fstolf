@@ -32,6 +32,12 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 
 tags: []
 
+links:
+- name: "Journal"
+  url: https://onlinelibrary.wiley.com/doi/full/10.1002/env.2806
+- name: "Code"
+  url: https://github.com/federicastolf/sHMEV
+
 # Display this page in the Featured widget?
 featured: true
 
