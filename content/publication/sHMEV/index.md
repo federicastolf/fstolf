@@ -1,6 +1,6 @@
 ---
 title: 'A hierarchical Bayesian non-asymptotic extreme value
-model for spatial dat'
+model for spatial data'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
