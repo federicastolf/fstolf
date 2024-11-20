@@ -25,6 +25,12 @@ publication_types: ['2']
 publication: In "Environmetrics"
 publication_short: In "Environmetrics"
 
+#abstract: 
+
+
+# Summary. An optional shortened abstract.
+#summary:
+
 tags: []
 
 links:
@@ -72,12 +78,3 @@ projects: []
 slides: ""
 ---
 
-{{% callout note %}}
-Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the _Slides_ button to check out the example.
-{{% /callout %}}
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
