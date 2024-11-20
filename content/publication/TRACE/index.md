@@ -24,7 +24,7 @@ publication_types: ['3']
 publication: ""
 publication_short: ""
 
-#abstract: 
+#abstract: Joint species distribution models are popular in ecology for modeling covariate effects on species occurrence, while characterizing cross-species dependence. Data consist of multivariate binary indicators of the occurrences of different species in each sample, along with sample-specific covariates. A key problem is that current models implicitly assume that the list of species under consideration is predefined and finite, while for highly diverse groups of organisms, it is impossible to anticipate which species will be observed in a study and discovery of unknown species is common. This article proposes a new modeling paradigm for statistical ecology, which generalizes traditional multivariate probit models to accommodate large numbers of rare species and new species discovery. We discuss theoretical properties of the proposed modeling paradigm and implement efficient algorithms for posterior computation. Simulation studies and applications to fungal biodiversity data provide compelling support for the new modeling class.
 
 
 # Summary. An optional shortened abstract.
