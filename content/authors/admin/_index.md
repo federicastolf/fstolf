@@ -6,12 +6,12 @@ title: Federica Stolf
 superuser: true
 
 # Role/position/tagline
-role: PhD student
+role: Postdoctoral Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University of Padova
-  #  url: http://www.stat.unipd.it/
+  - name: Duke University
+  #  url: https://stat.duke.edu/
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and 
