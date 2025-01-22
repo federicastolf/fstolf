@@ -68,7 +68,8 @@ email: ''
 highlight_name: true
 ---
 
-I am a postdoctoral associate in the [Department of Statistical Science](https://stat.duke.edu/) at Duke University, working with [Amy Herring](https://scholars.duke.edu/person/Amy.Herring) and [David Dunson](https://scholars.duke.edu/person/dunson). 
+I am a postdoctoral associate in the [Department of Statistical Science](https://stat.duke.edu/) at Duke University, working with [Amy Herring](https://scholars.duke.edu/person/Amy.Herring) and [David Dunson](https://scholars.duke.edu/person/dunson).
+I received my PhD in Statistics at the [Universiy of Padova](https://www.stat.unipd.it/) in 2025, supervised by Prof. [Antonio Canale](https://tonycanale.github.io/) and Prof. [David Dunson](https://scholars.duke.edu/person/dunson).
 
 I am interested in developing flexible Bayesian methods to analyze complex data, focusing on both theoretical and computational aspects. My recent work is related to latent feature models, Bayesian nonparametrics and tensor factorization.
 
