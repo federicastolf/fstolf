@@ -8,7 +8,7 @@ authors:
   - admin
   - Antonio Canale
 
-date: '2024-11-15T00:00:00Z'
+date: '2025-05-16T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -22,7 +22,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: "Journal of Computational and Graphical Statistics, to appear"
-publication_short: "JCGS"
+publication_short: "Journal of Computational and Graphical Statistics, to appear"
 
 abstract: Tucker tensor decomposition offers a more effective representation for multiway data compared to the widely used PARAFAC model. However, its flexibility brings the challenge of selecting the appropriate latent multi-rank. To overcome the issue of pre-selecting the latent multi-rank, we introduce a Bayesian adaptive Tucker decomposition model that infers the multi-rank automatically via an infinite increasing shrinkage prior. The model introduces local sparsity in the core tensor, inducing rich and at the same time parsimonious dependency structures. Posterior inference proceeds via an efficient adaptive Gibbs sampler, supporting both continuous and binary data and allowing for straightforward missing data imputation when dealing with incomplete multiway data. We discuss fundamental properties of the proposed modeling framework, providing theoretical justification. Simulation studies and applications to chemometrics and complex ecological data offer compelling evidence of its advantages over existing tensor factorization methods.
 
