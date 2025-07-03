@@ -21,8 +21,8 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Computational and Graphical Statistics, to appear"
-publication_short: "Journal of Computational and Graphical Statistics, to appear"
+publication: "Journal of Computational and Graphical Statistics"
+publication_short: "Journal of Computational and Graphical Statistics"
 
 abstract: Tucker tensor decomposition offers a more effective representation for multiway data compared to the widely used PARAFAC model. However, its flexibility brings the challenge of selecting the appropriate latent multi-rank. To overcome the issue of pre-selecting the latent multi-rank, we introduce a Bayesian adaptive Tucker decomposition model that infers the multi-rank automatically via an infinite increasing shrinkage prior. The model introduces local sparsity in the core tensor, inducing rich and at the same time parsimonious dependency structures. Posterior inference proceeds via an efficient adaptive Gibbs sampler, supporting both continuous and binary data and allowing for straightforward missing data imputation when dealing with incomplete multiway data. We discuss fundamental properties of the proposed modeling framework, providing theoretical justification. Simulation studies and applications to chemometrics and complex ecological data offer compelling evidence of its advantages over existing tensor factorization methods.
 
@@ -35,10 +35,12 @@ tags:
 featured: false
 
 links:
-- name: "arXiv"
-  url: https://arxiv.org/abs/2411.10218
+- name: "Journal"
+  url: https://www.tandfonline.com/doi/full/10.1080/10618600.2025.2509585?src=
 - name: "Code"
   url: https://github.com/federicastolf/AdaTuck
+- name: "arXiv"
+  url: https://arxiv.org/abs/2411.10218
 url_pdf: ''
 url_code: ''
 url_dataset: ''
