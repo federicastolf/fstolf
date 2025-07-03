@@ -37,8 +37,6 @@ featured: false
 links:
 - name: "arXiv"
   url: https://arxiv.org/abs/2402.13384
-- name: "Code"
-  url: https://github.com/federicastolf/TRACE
 url_pdf: ''
 url_code: ''
 url_dataset: ''
