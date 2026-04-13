@@ -1,5 +1,5 @@
 ---
-title: 'Pathway-based Bayesian factor models for gene expression data'
+title: 'Pathway-based Bayesian factor models for 'omics data'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
