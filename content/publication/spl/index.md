@@ -10,7 +10,7 @@ authors:
   - admin
 
 
-date: '2026-02-16T00:00:00Z'
+date: '2026-01-16T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -26,7 +26,7 @@ publication_types: ['2']
 publication: "Statistics & Probability Letters"
 publication_short: "Statistics & Probability Letters"
 
-abstract: Tucker tensor decomposition offers a more effective representation for multiway data compared to the widely used PARAFAC model. However, its flexibility brings the challenge of selecting the appropriate latent multi-rank. To overcome the issue of pre-selecting the latent multi-rank, we introduce a Bayesian adaptive Tucker decomposition model that infers the multi-rank automatically via an infinite increasing shrinkage prior. The model introduces local sparsity in the core tensor, inducing rich and at the same time parsimonious dependency structures. Posterior inference proceeds via an efficient adaptive Gibbs sampler, supporting both continuous and binary data and allowing for straightforward missing data imputation when dealing with incomplete multiway data. We discuss fundamental properties of the proposed modeling framework, providing theoretical justification. Simulation studies and applications to chemometrics and complex ecological data offer compelling evidence of its advantages over existing tensor factorization methods.
+abstract: Sparse Bayesian factor models provide an effective framework to learn low-rank dependence structures in high-dimensional data. Their practical usefulness, however, is often limited by non-identifiability and the inability to incorporate auxiliary information in a principled way. We propose an identifiable infinite Bayesian factor model that combines a generalized lower triangular identification scheme with a structured shrinkage prior informed by variable-specific meta-covariates. The proposed prior induces sparsity in the factor loadings while ensuring identifiability up to signed permutations, enabling fully Bayesian posterior inference via Markov chain Monte Carlo methods. Unlike existing approaches, the prior we propose matches structural constraints with informed sparsity mitigating order dependence and easing interpretability. Posterior computation is carried out using an adaptive Gibbs sampler that jointly learns the number of factors, the sparsity structure, and the influence of meta-covariates. Simulation studies and an application to exchange-traded fund returns demonstrate accurate recovery of covariance structures, robustness to variable reordering, and insightful market dynamics.
 
 
 # Summary. An optional shortened abstract.
@@ -38,9 +38,9 @@ featured: false
 
 links:
 - name: "Journal"
-  url: https://www.tandfonline.com/doi/full/10.1080/10618600.2025.2509585?src=
+  url: https://www.sciencedirect.com/science/article/pii/S0167715226001367
 - name: "Code"
-  url: https://github.com/federicastolf/AdaTuck
+  url: https://github.com/federicastolf/SIS-with-UGLT
 - name: "arXiv"
   url: https://arxiv.org/abs/2411.10218
 url_pdf: ''
