@@ -5,10 +5,12 @@ title: 'Identifiable sparse Bayesian factorizations via meta regression'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
   - Antonio Canale
+  - Lorenzo Schiavon
+  - admin
 
-date: '2026-01-16T00:00:00Z'
+
+date: '2026-02-16T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -21,8 +23,8 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal of Computational and Graphical Statistics"
-publication_short: "Journal of Computational and Graphical Statistics"
+publication: "Statistics & Probability Letters"
+publication_short: "Statistics & Probability Letters"
 
 abstract: Tucker tensor decomposition offers a more effective representation for multiway data compared to the widely used PARAFAC model. However, its flexibility brings the challenge of selecting the appropriate latent multi-rank. To overcome the issue of pre-selecting the latent multi-rank, we introduce a Bayesian adaptive Tucker decomposition model that infers the multi-rank automatically via an infinite increasing shrinkage prior. The model introduces local sparsity in the core tensor, inducing rich and at the same time parsimonious dependency structures. Posterior inference proceeds via an efficient adaptive Gibbs sampler, supporting both continuous and binary data and allowing for straightforward missing data imputation when dealing with incomplete multiway data. We discuss fundamental properties of the proposed modeling framework, providing theoretical justification. Simulation studies and applications to chemometrics and complex ecological data offer compelling evidence of its advantages over existing tensor factorization methods.
 
