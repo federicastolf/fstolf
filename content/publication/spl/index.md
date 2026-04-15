@@ -10,7 +10,7 @@ authors:
   - admin
 
 
-date: '2026-01-16T00:00:00Z'
+date: '2026-01-18T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -41,8 +41,7 @@ links:
   url: https://www.sciencedirect.com/science/article/pii/S0167715226001367
 - name: "Code"
   url: https://github.com/federicastolf/SIS-with-UGLT
-- name: "arXiv"
-  url: https://arxiv.org/abs/2411.10218
+  
 url_pdf: ''
 url_code: ''
 url_dataset: ''
