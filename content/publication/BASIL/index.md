@@ -1,17 +1,15 @@
 ---
-title: 'Pathway-based Bayesian factor models for omics data'
+title: 'Bayesian inference on beta diversity via feature allocation models with imperfect detection'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Lorenzo Mauri
   - admin
-  - Amy H. Herring
-  - Cameron Miller
+  - Tommaso Rigon
   - David B. Dunson
 
-date: '2026-01-21T00:00:00Z'
+date: '2026-08-11T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -27,7 +25,7 @@ publication_types: ['3']
 publication: ""
 publication_short: ""
 
-#abstract: Interpreting gene expression data requires methods that can uncover coordinated patterns corresponding to biological pathways. Traditional approaches such as principal component analysis and factor models reduce dimensionality, but latent components may have unclear biological meaning. Current approaches to incorporate pathway annotations impose restrictive assumptions, require extensive hyperparameter tuning, and do not provide principled uncertainty quantification, hindering the robustness and reproducibility of results. Here, we develop Bayesian Analysis with gene-Sets Informed Latent space (BASIL), a scalable Bayesian factor modeling framework that incorporates gene pathway annotations into latent variable analysis for RNA-sequencing data. BASIL places structured priors on factor loadings, shrinking them toward combinations of annotated gene sets, enhancing biological interpretability and stability, while simultaneously learning new unstructured components. BASIL provides accurate covariance estimates and uncertainty quantification, without resorting to computationally expensive Markov chain Monte Carlo sampling. An automatic empirical Bayes procedure eliminates the need for manual hyperparameter tuning, promoting reproducibility and usability in practice. In simulations and large-scale human transcriptomic datasets, BASIL consistently outperforms state-of-the-art approaches, accurately reconstructing gene-gene covariance, selecting the correct latent dimension, and identifying biologically coherent modules.
+#abstract: Beta diversity quantifies variation in species composition across ecological communities and is fundamental for understanding biodiversity patterns across space and environmental gradients. Statistical inference on beta diversity is challenging: species occurrence data are high dimensional, many species remain unobserved despite extensive sampling, and surveys are subject to imperfect detection. Existing approaches are typically based on empirical dissimilarity indices with limited uncertainty quantification or on models that rely on unrealistic exchangeability and perfect detection assumptions. We introduce a new class of Bayesian feature allocation models for partially exchangeable species occurrence data with imperfect detection. The framework combines latent feature allocation models with occupancy-based detection mechanisms, allowing heterogeneous species compositions across sites, explicitly accounting for false negatives, and accommodating the discovery of previously unobserved species. We develop coherent probabilistic inference for species sharing and beta diversity, deriving explicit posterior and predictive distributions for between-community heterogeneity, including the number of shared species across sites and the number expected under future sampling. These analytical results yield interpretable posterior summaries of compositional heterogeneity and facilitate scalable inference in high-dimensional biodiversity studies. Simulation studies and an application to global fungal biodiversity data demonstrate improved inference on species sharing and between-community diversity.
 
 # Summary. An optional shortened abstract.
 #summary:
@@ -38,9 +36,9 @@ featured: false
 
 links:
 - name: "Code"
-  url: https://github.com/federicastolf/BASIL
+  url: https://github.com/federicastolf/MOSAIC
 - name: "arXiv"
-  url: https://arxiv.org/abs/2601.13419
+  url: https://arxiv.org/abs/2608.11180
 url_pdf: ''
 url_code: ''
 url_dataset: ''
