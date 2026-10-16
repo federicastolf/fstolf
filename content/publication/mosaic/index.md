@@ -1,17 +1,15 @@
 ---
-title: 'Pathway-based Bayesian factor models for omics data'
+title: 'Bayesian inference on beta diversity via feature allocation models'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Lorenzo Mauri
   - admin
-  - Amy H. Herring
-  - Cameron Miller
+  - Tommaso Rigon
   - David B. Dunson
 
-date: '2026-01-21T00:00:00Z'
+date: '2026-08-11T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -27,7 +25,8 @@ publication_types: ['3']
 publication: ""
 publication_short: ""
 
-#abstract: Interpreting gene expression data requires methods that can uncover coordinated patterns corresponding to biological pathways. Traditional approaches such as principal component analysis and factor models reduce dimensionality, but latent components may have unclear biological meaning. Current approaches to incorporate pathway annotations impose restrictive assumptions, require extensive hyperparameter tuning, and do not provide principled uncertainty quantification, hindering the robustness and reproducibility of results. Here, we develop Bayesian Analysis with gene-Sets Informed Latent space (BASIL), a scalable Bayesian factor modeling framework that incorporates gene pathway annotations into latent variable analysis for RNA-sequencing data. BASIL places structured priors on factor loadings, shrinking them toward combinations of annotated gene sets, enhancing biological interpretability and stability, while simultaneously learning new unstructured components. BASIL provides accurate covariance estimates and uncertainty quantification, without resorting to computationally expensive Markov chain Monte Carlo sampling. An automatic empirical Bayes procedure eliminates the need for manual hyperparameter tuning, promoting reproducibility and usability in practice. In simulations and large-scale human transcriptomic datasets, BASIL consistently outperforms state-of-the-art approaches, accurately reconstructing gene-gene covariance, selecting the correct latent dimension, and identifying biologically coherent modules.
+#abstract: Beta diversity quantifies variation in species composition across ecological communities and is fundamental for understanding biodiversity patterns across space and environmental gradients. Inference is complicated by incomplete sampling, differences among communities and imperfect detection. We develop a partially exchangeable Bayesian feature allocation model for species occurrence data that accommodates unobserved species and incorporates site-specific covariates to relate variation in species composition to environmental conditions. The model yields explicit conditional distributions for species richness and sharing, together with predictions of the species newly recorded at individual sites or newly shared between sites under additional sampling. We also introduce a novel probabilistic beta diversity index with posterior uncertainty quantification. An occupancy-detection representation preserves the tractability of the occurrence model and allows sensitivity analysis under specified detectability assumptions. This tractability makes the approach scalable, enabling inference in large biodiversity studies.
+Simulation studies assess predictive performance, and an application to global airborne fungal data illustrates how accounting for unobserved species and borrowing information across sites affect inference on compositional heterogeneity.
 
 # Summary. An optional shortened abstract.
 #summary:
@@ -38,9 +37,9 @@ featured: false
 
 links:
 - name: "Code"
-  url: https://github.com/federicastolf/BASIL
+  url: https://github.com/federicastolf/MOSAIC
 - name: "arXiv"
-  url: https://arxiv.org/abs/2601.13419
+  url: https://arxiv.org/abs/2608.11180
 url_pdf: ''
 url_code: ''
 url_dataset: ''
